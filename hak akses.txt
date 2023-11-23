@@ -1,0 +1,10 @@
+username (produksi):Hanip 
+pass:komputer123
+username:Pemasaran
+pass:komputer123
+username:Supplier
+pass:komputer123
+username:human resources
+pass:komputer123
+username:inventory
+pass:komputer123
